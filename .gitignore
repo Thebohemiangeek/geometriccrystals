@@ -67,3 +67,7 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+src/components/Hero/P5/.Crystal.js
+src/components/Hero/P5/.GeometricLayers.js
+src/components/Hero/P5/.Layers.js
+src/components/Hero/P5/.LayerConstructor.js
